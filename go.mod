@@ -1,3 +1,3 @@
-module github.com/jhemmmm/logger
+module github.com/jhemmmm/go-logger
 
 go 1.16
